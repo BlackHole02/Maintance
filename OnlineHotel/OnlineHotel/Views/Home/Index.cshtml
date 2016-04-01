@@ -1,0 +1,80 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@section bannerinfo
+{
+
+    <div class="banner">
+        <div class="banner-info">
+            <div class="container">
+                <div class="details-1">
+                    <div class="col-md-10 dropdown-buttons">
+
+                        <!---strat-date-piker---->
+                        <link rel="stylesheet" href="/Assets/Client/css/jquery-ui.css" />
+                        <script src="/Assets/Client/js/jquery-ui.js"></script>
+                        <script>
+                            $(function () {
+                                $("#datepicker,#datepicker1").datepicker();
+                            });
+                        </script>
+                        <!---/End-date-piker---->
+
+                        <div class="col-md-4 dropdown-button">
+                            <div class="book_date">
+                                <form>
+                                    <input class="date" id="datepicker" type="text" value="Check In" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Check In';}">
+                                </form>
+                            </div>
+                        </div>
+                        <div class="col-md-4 dropdown-button">
+                            <div class="book_date">
+                                <form>
+                                    <input class="date1" id="datepicker1" type="text" value="Check Out" onfocus="this.value = '';" onblur="if (this.value == '') {this.value = 'Check Out';}">
+                                </form>
+                            </div>
+                        </div>
+                        <div class="col-md-4 dropdown-button">
+                            <div class="section_1">
+                                <select id="country" onchange="change_country(this.value)" class="frm-field required">
+                                    <option value="null">Double Room</option>
+                                    <option value="null">Single Room</option>
+                                    <option value="AX">Vip Room</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="clearfix"> </div>
+                    </div>
+                    <div class="col-md-2 submit_button">
+                        <form action="details.html">
+                            <input type="submit" value="Search">
+                        </form>
+                    </div>
+                    <div class="clearfix"> </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+
+@section hod
+{
+    <!-- hod -->
+    <div class="hod">
+        <div class="container">
+            <div class="col-md-6 hod-left">
+                <img src="/Assets/Client/images/14.jpg" class="img-responsive" alt="">
+            </div>
+            <div class="col-md-6 hod-right">
+                <h2>Publishing packages and web page</h2>
+                <p>The point of using as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' </p>
+                <p>Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here',</p>
+                <a class="hvr-shutter-in-horizontal" href="details.html">Book Now</a>
+            </div>
+            <div class="clearfix"></div>
+        </div>
+    </div>
+    <!-- hod -->
+}

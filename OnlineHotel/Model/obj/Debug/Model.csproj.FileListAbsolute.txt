@@ -1,0 +1,20 @@
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\Model\bin\Debug\Model.dll.config
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\Model\bin\Debug\Model.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\Model\bin\Debug\Model.pdb
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\Model\bin\Debug\EntityFramework.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\Model\bin\Debug\EntityFramework.SqlServer.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\Model\bin\Debug\EntityFramework.xml
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\Model\bin\Debug\EntityFramework.SqlServer.xml
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\Model\obj\Debug\Model.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\Model\obj\Debug\Model.pdb
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\Model\bin\Debug\Model.dll.config
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\Model\bin\Debug\Model.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\Model\bin\Debug\Model.pdb
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\Model\bin\Debug\EntityFramework.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\Model\bin\Debug\EntityFramework.xml
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\Model\obj\Debug\Model.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\Model\obj\Debug\Model.pdb

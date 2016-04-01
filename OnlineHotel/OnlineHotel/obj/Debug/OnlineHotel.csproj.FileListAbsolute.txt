@@ -1,0 +1,114 @@
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\OnlineHotel.dll.config
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\OnlineHotel.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\OnlineHotel.pdb
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Antlr3.Runtime.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\EntityFramework.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\EntityFramework.SqlServer.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Microsoft.AspNet.Identity.Core.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Security.Cookies.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Security.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Security.Facebook.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Security.Google.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Security.OAuth.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Security.Twitter.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Microsoft.Web.Infrastructure.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Newtonsoft.Json.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Owin.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\System.Web.Helpers.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\System.Web.Mvc.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\System.Web.Optimization.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\System.Web.Razor.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\System.Web.WebPages.Deployment.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\System.Web.WebPages.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\System.Web.WebPages.Razor.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\WebGrease.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\System.Web.Helpers.xml
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\System.Web.Mvc.xml
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\System.Web.Optimization.xml
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\System.Web.Razor.xml
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\System.Web.WebPages.xml
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\System.Web.WebPages.Deployment.xml
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\System.Web.WebPages.Razor.xml
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Newtonsoft.Json.xml
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Antlr3.Runtime.pdb
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\EntityFramework.xml
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\EntityFramework.SqlServer.xml
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Microsoft.AspNet.Identity.Core.xml
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.xml
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Security.xml
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Security.Facebook.xml
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Security.Cookies.xml
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Security.OAuth.xml
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Security.Google.xml
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Security.Twitter.xml
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\obj\Debug\OnlineHotel.csprojResolveAssemblyReference.cache
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\obj\Debug\OnlineHotel.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\obj\Debug\OnlineHotel.pdb
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Model.dll
+F:\STUDY\Nam3\Phát triển, vận hành và bảo trì phần mềm\Bài tập\2\OnlineHotel\OnlineHotel\bin\Model.pdb
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\OnlineHotel.dll.config
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\OnlineHotel.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\OnlineHotel.pdb
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Antlr3.Runtime.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\EntityFramework.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\EntityFramework.SqlServer.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Security.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Model.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Newtonsoft.Json.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Owin.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\System.Web.Helpers.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\System.Web.Mvc.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\System.Web.Optimization.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\System.Web.Razor.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\System.Web.WebPages.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\System.Web.WebPages.Razor.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\WebGrease.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Model.pdb
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\System.Web.Helpers.xml
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\System.Web.Mvc.xml
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\System.Web.Optimization.xml
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\System.Web.Razor.xml
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\System.Web.WebPages.xml
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\System.Web.WebPages.Razor.xml
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Newtonsoft.Json.xml
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Antlr3.Runtime.pdb
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\EntityFramework.xml
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\EntityFramework.SqlServer.xml
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.xml
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Security.xml
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\obj\Debug\OnlineHotel.csprojResolveAssemblyReference.cache
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\obj\Debug\OnlineHotel.dll
+C:\Users\Nguyen Thi Hang\Desktop\OnlineHotel\OnlineHotel\obj\Debug\OnlineHotel.pdb
